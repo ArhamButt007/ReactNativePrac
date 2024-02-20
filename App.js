@@ -7,8 +7,7 @@ export default function App() {
       <View style={styles.field1}></View>
 
       <View style={styles.field2}>
-      <TouchableOpacity>Click Me</TouchableOpacity>
-
+      
       </View>
 
 </View> 
